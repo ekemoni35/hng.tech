@@ -11,24 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iamadeyii/image/upload/v1554366176/1551949269877.jpg" alt="iamadeyii">
-                        <h6>Benedict Daniel A.</h6>
-                        <p>Tech Exploiter/ Developer. </p>
+                        <img src="https://res.cloudinary.com/cynthia994/image/upload/v1554502484/FB_IMG_1530489194164.jpg">
+                        <h6>Peters Cynthia</h6>
+                        <p>Full stack developer</p>
                         <ul class="list">
-                           <li><a href="https://www.twitter.com/iam_adeyii" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://www.github.com/iamadeyii" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://www.medium.com/@iamadeyii" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/@savoir_vie" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/Cynthia994" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@petersdinma18" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm still learning as much PHP as I can swallow, should have started earlier but heck, Learning doesn't stop,  Weird books reader, Jermaine Cole's words keeps me on track, I don't socialize, bright lights irritates me and</p>
-                        <p>... I <br> L O V E  <br> T E C H N O L O G Y. </p>
+                        <p>Hello, I'm nothing but a product of grace. using technology to bring creative innovation, I just want to build for the next billion users. solving problems is one task i tack on myself.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>MYSQL | PHP | C#</p>
+                        <p> HTML | css|Javascript | Node</p>
                      </div>
                   </div>
                </div>

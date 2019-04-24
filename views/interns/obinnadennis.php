@@ -1,5 +1,3 @@
-
-
 <html>
    <?php include 'partials/header.php';?>
    <body class=" pi">
@@ -10,23 +8,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/chidoziendukaku/image/upload/v1554438411/profile_pic.jpg" alt="Chidozie Ndukaku">
-                        <h6>Chidozie Ndukaku</h6>
-                        <p>Fullstack web developer</p>
+                        <img src="https://https://res.cloudinary.com/da5s2uczs/image/upload/v1554439732/obinnadennis.jpg" alt="Obinna Dennis Okoh">
+                        <h6>Obinna Dennis Okoh</h6>
+                        <p>UI/UX and Graphics Designer</p>
                         <ul class="list">
-                           <li><a href="https://twitter.com/ChidozieNdukaku" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://github.com/ChidozieNdukaku" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://medium.com/@chidozndu" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+						   <li><a href="https://twitter.com/obinnadennis" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/obinnadennis" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I am fullstack web developer with JavaScript and PHP. I am critical thinker and problem solver. I can learn really fast. I enjoy working with people. I also give my best when required.</p>
+                        <p>I am a UI/UX and Graphics Designer. I am also a Sales Consultant at Jumia Online Shop and a Flight Agent. I major in Figma and Photoshop. </p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP </p>
+                        <p>Figma | Photoshp | Lightroom</p>
                      </div>
                   </div>
                </div>

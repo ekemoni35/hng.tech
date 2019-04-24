@@ -1,5 +1,3 @@
-
-
 <html>
    <?php include 'partials/header.php';?>
    <body class=" pi">
@@ -10,23 +8,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/chidoziendukaku/image/upload/v1554438411/profile_pic.jpg" alt="Chidozie Ndukaku">
-                        <h6>Chidozie Ndukaku</h6>
-                        <p>Fullstack web developer</p>
+                        <img src="https://res.cloudinary.com/pamelauzodimma/image/upload/v1554382124/IMG_20190107_103241_1.jpg" alt="Pamela Uzodimma">
+                        <h6>Pamela Uzodimma</h6>
+                        <p>UX Designer</p>
                         <ul class="list">
-                           <li><a href="https://twitter.com/ChidozieNdukaku" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://github.com/ChidozieNdukaku" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://medium.com/@chidozndu" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/TogetherLovely" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/UzodimmaPamela/" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@omavuitton/" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I am fullstack web developer with JavaScript and PHP. I am critical thinker and problem solver. I can learn really fast. I enjoy working with people. I also give my best when required.</p>
+                        <p>My name is Uzodimma Pamela. I am self learning at Interaction Design Foundation. I am paasionate about using UX to change the world</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP </p>
+                        <p>HTML | FIGMA </p>
                      </div>
                   </div>
                </div>

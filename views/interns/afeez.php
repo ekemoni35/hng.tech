@@ -11,24 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iamadeyii/image/upload/v1554366176/1551949269877.jpg" alt="iamadeyii">
-                        <h6>Benedict Daniel A.</h6>
-                        <p>Tech Exploiter/ Developer. </p>
+                        <img src="https://res.cloudinary.com/afeezdev/image/upload/v1554479791/234_816_708_9828_20170510_142357.jpg" alt="Mark Essien">
+                        <h6>Abdulyekeen Afeez Olawale</h6>
+                        <p>Front-end Developer</p>
                         <ul class="list">
-                           <li><a href="https://www.twitter.com/iam_adeyii" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://www.github.com/iamadeyii" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://www.medium.com/@iamadeyii" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="twitter.com/talk2wale09" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="github.com/talk2wale09/" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="medium.com/@afeezdev" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm still learning as much PHP as I can swallow, should have started earlier but heck, Learning doesn't stop,  Weird books reader, Jermaine Cole's words keeps me on track, I don't socialize, bright lights irritates me and</p>
-                        <p>... I <br> L O V E  <br> T E C H N O L O G Y. </p>
+                        <p>Hi, I'm Abdulyekeen Afeez Olawale. A Front-end Developer with over, I'm still at the beginner level and looking forward to be a Full Stack Developer</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>MYSQL | PHP | C#</p>
+                        <p>JavaScript | CSS| React</p>
                      </div>
                   </div>
                </div>

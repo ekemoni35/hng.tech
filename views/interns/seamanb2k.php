@@ -1,5 +1,3 @@
-
-
 <html>
    <?php include 'partials/header.php';?>
    <body class=" pi">
@@ -10,23 +8,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/chidoziendukaku/image/upload/v1554438411/profile_pic.jpg" alt="Chidozie Ndukaku">
-                        <h6>Chidozie Ndukaku</h6>
-                        <p>Fullstack web developer</p>
+                        <img src="https://res.cloudinary.com/seamanb2k/image/upload/v1554617174/seunemmanuel.jpg" alt="seamanb2k">
+                        <h6>Seun Emmanuel Faleti</h6>
+                        <p>Front-end Developer</p>
                         <ul class="list">
-                           <li><a href="https://twitter.com/ChidozieNdukaku" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://github.com/ChidozieNdukaku" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://medium.com/@chidozndu" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/@seun_emmy" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/seamanb2k" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@digitalEmma" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I am fullstack web developer with JavaScript and PHP. I am critical thinker and problem solver. I can learn really fast. I enjoy working with people. I also give my best when required.</p>
+                        <p>Hi, I am Seun Emmanuel Faleti, a front-end developer and mobile web specialist. I help individuals and organizations to build intuitive and responsive websites and apps .</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>JavaScript | PHP </p>
+                        <p>Javascript | React | Bootstrap </p>
                      </div>
                   </div>
                </div>

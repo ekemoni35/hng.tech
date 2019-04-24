@@ -11,24 +11,24 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iamadeyii/image/upload/v1554366176/1551949269877.jpg" alt="iamadeyii">
-                        <h6>Benedict Daniel A.</h6>
-                        <p>Tech Exploiter/ Developer. </p>
+                        <img src="https://res.cloudinary.com/adebusola/image/upload/v1554419288/ice_2018-06-08-19-34-02-397.png
+" alt="Mark Essien">
+                        <h6>Adebusola </h6>
+                        <p>Front-end Engineer</p>
                         <ul class="list">
-                           <li><a href="https://www.twitter.com/iam_adeyii" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://www.github.com/iamadeyii" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://www.medium.com/@iamadeyii" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="http://twitter.com/Adebusola__" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="http://github.com/bussy73" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="http://medium.com/@bussybounce2" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm still learning as much PHP as I can swallow, should have started earlier but heck, Learning doesn't stop,  Weird books reader, Jermaine Cole's words keeps me on track, I don't socialize, bright lights irritates me and</p>
-                        <p>... I <br> L O V E  <br> T E C H N O L O G Y. </p>
+                        <p>A young passionate programmer who is ready to learn more about web development.I have working experience with various companies but i want to go into programming full time.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>MYSQL | PHP | C#</p>
+                        <p>HTML  | CSS | JAVASCRIPT</p>
                      </div>
                   </div>
                </div>

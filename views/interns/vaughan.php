@@ -11,24 +11,24 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iamadeyii/image/upload/v1554366176/1551949269877.jpg" alt="iamadeyii">
-                        <h6>Benedict Daniel A.</h6>
-                        <p>Tech Exploiter/ Developer. </p>
+                        <img src="https://res.cloudinary.com/dsjdg8t3v/image/upload/a_360/v1554716476/david.jpg" alt="Vaughan David">
+                        <h6>Vaughan David</h6>
+                        <p>Front-end developer</p>
                         <ul class="list">
-                           <li><a href="https://www.twitter.com/iam_adeyii" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://www.github.com/iamadeyii" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://www.medium.com/@iamadeyii" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/Vaughanda_vid" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/oluwatunbi" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm still learning as much PHP as I can swallow, should have started earlier but heck, Learning doesn't stop,  Weird books reader, Jermaine Cole's words keeps me on track, I don't socialize, bright lights irritates me and</p>
-                        <p>... I <br> L O V E  <br> T E C H N O L O G Y. </p>
+                        <p>i am a medical doctor, an aspiring front end developer and tech savvy. i love it when i could write an algorithm to find solutions to the problems around me most expecially when its related to medicine. i have experience with HTML, CSS and javascript. 
+                        </p>
                         <br />
                         <h6>Skills</h6>
-                        <p>MYSQL | PHP | C#</p>
+                        <p>JavaScript | CSS | HTML</p>
                      </div>
                   </div>
                </div>

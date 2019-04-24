@@ -11,24 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iamadeyii/image/upload/v1554366176/1551949269877.jpg" alt="iamadeyii">
-                        <h6>Benedict Daniel A.</h6>
-                        <p>Tech Exploiter/ Developer. </p>
+                        <img src="https://res.cloudinary.com/jogwums/image/upload/v1554310041/Test1/Jonathan_Ogwumike_Passport_Photo.jpg" alt="Jonathan Ogwumike">
+                        <h6>Jonathan Ogwumike</h6>
+                        <p>Web Developer</p>
                         <ul class="list">
-                           <li><a href="https://www.twitter.com/iam_adeyii" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://www.github.com/iamadeyii" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://www.medium.com/@iamadeyii" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/badm1a" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/Jogwums" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@jonathanogwumike" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm still learning as much PHP as I can swallow, should have started earlier but heck, Learning doesn't stop,  Weird books reader, Jermaine Cole's words keeps me on track, I don't socialize, bright lights irritates me and</p>
-                        <p>... I <br> L O V E  <br> T E C H N O L O G Y. </p>
+                        <p>I am an aspiring web developer and data analyst with an interest in technology, entrepreneurship and cryptocurrency</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>MYSQL | PHP | C#</p>
+                        <p>JavaScript | HTML | CSS</p>
                      </div>
                   </div>
                </div>

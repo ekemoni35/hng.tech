@@ -11,24 +11,23 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iamadeyii/image/upload/v1554366176/1551949269877.jpg" alt="iamadeyii">
-                        <h6>Benedict Daniel A.</h6>
-                        <p>Tech Exploiter/ Developer. </p>
+                        <img src="https://res.cloudinary.com/seyiprisca/image/upload/v1554832719/New_Doc_2017-04-14_1.jpg" alt="Olawale Oladele">
+                        <h6>Priscilla Abimbola</h6>
+                        <p> Data Analyst and budding Data Scientist</p>
                         <ul class="list">
-                           <li><a href="https://www.twitter.com/iam_adeyii" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="https://www.github.com/iamadeyii" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://www.medium.com/@iamadeyii" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/seyiabimbola4" target="_blank"><i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/seyiprisca/" target="_blank"><i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@brainypee" target="_blank"><i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm still learning as much PHP as I can swallow, should have started earlier but heck, Learning doesn't stop,  Weird books reader, Jermaine Cole's words keeps me on track, I don't socialize, bright lights irritates me and</p>
-                        <p>... I <br> L O V E  <br> T E C H N O L O G Y. </p>
+                        <p>I am Abimbola Priscilla, a graduate of biochemistry with interest and skill set in data analytics. I intend to solve biological and health challenges using technological tools most especially data anlytics and machine learning.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p>MYSQL | PHP | C#</p>
+                        <p>Python | Javascript | MySQL | CSS</p>
                      </div>
                   </div>
                </div>
